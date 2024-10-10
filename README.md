@@ -8,12 +8,7 @@
  
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="image/javascript.png" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="image/c++.png" width="36" height="36" alt="C" />
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="image/javascript.png" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="image/c++.png" width="36" height="36" alt="C" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="image/TS.png" width="36" height="36" alt="TypeScript" />
 </a>
